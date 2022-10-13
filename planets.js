@@ -268,7 +268,7 @@ console.log(
   `The sum of the number of satellites of Jupiter, Saturn, Uranus, and Neptune is ${satelliteSum}.`
 );
 
-// Cyrus's solution
+// C's solution
 // console.log(
 //   "The sum of the number of satellites of Jupiter, Saturn, Uranus, and Neptune  is " +
 //     (Number(system.jupiter.satellites) +
@@ -277,7 +277,7 @@ console.log(
 //       Number(system.neptune.satellites))
 // );
 
-// Anton's solution
+// A's solution
 
 // const sumOfSet = (planet1,planet2,planet3,planet4) =>{
 //     return parseInt(planet1) + parseInt(planet2) + parseInt(planet3) + parseInt(planet4)
@@ -285,7 +285,7 @@ console.log(
 //     sumOfSet(system.jupiter.satellites,system.saturn.satellites,system.uranus.satellites,system.neptune.satellites,);
 //     console.log(system.jupiter.satellites, system.saturn.satellites , system.uranus.satellites , system.neptune.satellites);
 
-// Christina's solution
+// Ch's solution
 
 //   3. console.log the sum of the number of satellites of Jupiter, Saturn, Uranus, and Neptune (131)
 // let satelliteSum = 0;
